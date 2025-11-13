@@ -1,3 +1,7 @@
+#变量 函数 条件判断 循环
+#导入库
+
+
 def multiplication_table():
     """九九乘法表生成函数"""
     print("开始生成九九乘法表...")
@@ -16,3 +20,4 @@ def multiplication_table():
 
 # 调用函数
 multiplication_table()
+
